@@ -41,3 +41,13 @@ Attribution (3.0)
 "HiddenDoor"
 Credit to
 Galit Breen 2014 https://www.sheknows.com/living/articles/1026051/12-secret-hiding-places-to-keep-household-treasures/amp/
+
+---
+
+"door_close"
+by wjtaylor
+
+2015 - Licensed under
+Creative Commons 0
+
+---
