@@ -69,7 +69,8 @@ Attribution (3.0)
 
 "Pearls" by AnnaKovalchuk
 Pixabay - Licensed under
-Creative Commons 0
+No Attributions needed, 
+but nice to credit.
 
 ---
 
