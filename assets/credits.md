@@ -52,20 +52,6 @@ Creative Commons 0
 
 ---
 
-"Magical"
-by Mike Koenig
-
-Licensed under
-Creative Commons
-Attribution (3.0)
-
----
-
-"old parchment" by Muffet is licensed under CC BY 2.0 
-
----
-
-
 "No 1" by Blue2107
 2012 Licensed under
 Creative Commons 0
@@ -81,5 +67,10 @@ Attribution (3.0)
 
 ---
 
+"Pearls" by AnnaKovalchuk
+Pixabay - Licensed under
+Creative Commons 0
+
+---
 
 
